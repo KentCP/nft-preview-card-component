@@ -107,7 +107,7 @@ span {
   right: 0;
   bottom: 0;
   left: 0;
-/*   height: 322px; */
+  height: 322px;
   position: absolute;
   visibility: hidden;
   text-align: center;
