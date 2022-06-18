@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KentCP/nft-preview-card-component](https://www.github.com/kentcp/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kentsnftcard.netlify.app/](https://kentsnftcard.netlify.app/)
 
 ## My process
 
