@@ -127,8 +127,9 @@ span {
 .middle {
   border-bottom: 1px solid var(--border-color);
 }
+
 .middle .flex {
-  padding-bottom: .5rem;
+  padding: .5rem 0;
 }
 
 .description {
