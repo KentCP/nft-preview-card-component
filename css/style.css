@@ -145,6 +145,7 @@ span {
 }
 
 .days__counter {
+  color: var(--primary-color);
   font-size: 1rem;
   font-weight: normal;
   line-height: unset;
@@ -174,7 +175,8 @@ span {
   
 }
 
-.creator p {
+.creator .name {
+  color: var(--primary-color); 
   margin-left: .85rem;
   font-size: 1rem;
   font-weight: normal;
